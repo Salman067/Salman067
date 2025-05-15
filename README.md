@@ -21,40 +21,11 @@ I'm passionate about creating clean, efficient code and building practical solut
 
 ---
 
-### 🚀 Highlighted Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <div align="center">
-        <a href="https://github.com/yourusername/project1" target="_blank">
-          <img src="https://github.com/yourusername/project1/raw/main/preview.png" width="400" alt="Project 1">
-        </a>
-        <p><strong>Tools:</strong> React, Node.js, MongoDB</p>
-        <p>Short description of your project highlighting key features and accomplishments.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <div align="center">
-        <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://github.com/yourusername/project2/raw/main/preview.png" width="400" alt="Project 2">
-        </a>
-        <p><strong>Tools:</strong> Python, Flask, PostgreSQL</p>
-        <p>Short description of your project highlighting key features and accomplishments.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Salman067&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman067&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
